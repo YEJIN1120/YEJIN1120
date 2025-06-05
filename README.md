@@ -1,4 +1,4 @@
-# 👋 안녕하세요! 프론트엔드 개발자 김예진입니다.
+# 👋 HELLO! FE 개발자 김예진
 
 사용자와 개발자가 **모두 편리한 환경**을 만드는 개발자입니다.  
 논리적인 문제 해결과 꼼꼼한 마무리를 중요하게 여기며, 협업과 실용적인 코드를 중시합니다.  
@@ -40,7 +40,7 @@ YOLOv8 기반 병 탐지 및 분류 웹 서비스
 ## 📬 Contact
 
 - 📮 Email: **kyj21120@naver.com**  
-- 📘 Blog (Velog): [velog.io/@YEJIN1120](https://velog.io/@YEJIN1120)
+- 📘 Blog (Velog): [[velog.io/@YEJIN1120](https://velog.io/@YEJIN1120)](https://velog.io/@yejin1120/posts)
 
 ---
 
