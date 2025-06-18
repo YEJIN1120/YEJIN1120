@@ -11,7 +11,7 @@
 | Frontend | React · JavaScript · HTML/CSS · Tailwind CSS |
 |----------|----------------------------------------------|
 | Backend  | Spring Boot · MySQL                          |
-| Tools    | Git · Postman · Figma · GitHub               |
+| Tools    | Git · Postman · Figma         |
 
 ---
 
