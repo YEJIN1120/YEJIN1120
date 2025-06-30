@@ -21,12 +21,14 @@
 YOLOv8 기반 병 탐지 및 분류 웹 서비스  
 → Spring Boot + React 기반 풀스택 프로젝트  
 → Flask AI 서버와 연동하여 실시간 병 분석 기능 구현
+
 🔗 [프로젝트 보러가기](https://github.com/YEJIN1120/recycle)
 
 ### 🏥 [응급의료기관 정보 조회 서비스](https://github.com/YEJIN1120/BigDataProject)  
 공공 데이터를 활용한 응급실 정보 조회 웹사이트  
 → 실시간 응급의료기관 위치 및 진료 가능 여부 확인  
 → 병원 리스트 및 상세정보 UI 구성
+
 🔗 [프로젝트 보러가기](https://github.com/YEJIN1120/BigDataProject)  
 
 ---
